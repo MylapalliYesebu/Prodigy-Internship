@@ -24,6 +24,11 @@ const Login = () => {
         }
     };
 
+    axios.post("https://prodigy-internship.onrender.com/api/auth/login", 
+        { email, password },
+        { withCredentials: true }
+    )
+    
     return (
         <form onSubmit={handleSubmit} className="max-w-md mx-auto mt-4">
             <h1 className="text-2xl mb-4">Login</h1>

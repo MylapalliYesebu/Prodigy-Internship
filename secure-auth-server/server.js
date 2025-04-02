@@ -12,6 +12,10 @@ const app = express();
 
 // Middleware
 app.use(express.json());
+
+const cors = require("cors");
+app.use(cors({ origin: "http://localhost:3000", credentials: true }));
+
 // app.use(cors());
 // app.use(cors({
 //     origin: 'https://prodigy-internship-client.onrender.com' // Change this to your client's URL
