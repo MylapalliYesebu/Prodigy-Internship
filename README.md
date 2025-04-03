@@ -51,7 +51,7 @@ Here are the tasks completed during the internship:
 |---------|-------------|-------------|
 | 01 | [Secure Authentication System](./secure-auth-project/README.md) | A user authentication system using JWT, bcrypt, and database integration. |
 | 02 | [Employee Management System](./employee-management-project/README.md) | A full-fledged CRUD application to manage employee records using Node.js and MongoDB. |
-| 03 | [Next Task]() | [Short Description] |
+| 03 | [Next Task] | [Short Description] |
 
 Each project folder contains detailed documentation, including setup steps and usage instructions.
 
@@ -74,18 +74,25 @@ Across all tasks, the following technologies were used:
 To clone and run any project locally:
 
 1. **Clone the Repository**
+
    ```sh
    git clone https://github.com/MylapalliYesebu/Prodigy-Internship.git
    ```
+
 2. **Navigate to the Project Folder**
+
    ```sh
    cd Prodigy-Internship/[Project-Folder-Name]
    ```
+
 3. **Install Dependencies**
+
    ```sh
    npm install
    ```
+
 4. **Run the Application**
+
    ```sh
    npm start
    ```
@@ -109,6 +116,6 @@ Include relevant screenshots or demo links here for better visualization.
 ## 📬 Contact & Contributions
 
 🔗 **GitHub**: [MylapalliYesebu](https://github.com/MylapalliYesebu)  
-📧 **Email**: yesebumylapalli08@gmail.com  
+📧 **Email**: <yesebumylapalli08@gmail.com>  
 
 Feel free to fork, contribute, or reach out for collaboration! 🚀
