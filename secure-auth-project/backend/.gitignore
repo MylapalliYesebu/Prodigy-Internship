@@ -1,1 +1,19 @@
+# Node.js dependencies
 node_modules/
+
+# Environment variables (VERY IMPORTANT!)
+.env
+
+# Logs
+logs/
+*.log
+debug.log
+error.log
+
+# Build files
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
