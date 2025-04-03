@@ -6,7 +6,7 @@ const HomePage = () => {
 
   return (
     <div className="home-container">
-      <h1>Welcome to Auth Project</h1>
+      <h1>Welcome to Secure User Authentication Project</h1>
       {user ? (
         <div>
           <p>You're logged in as {user.name}</p>
