@@ -109,7 +109,7 @@ Detailed instructions for running each project are available in their respective
 
 ## 📸 Screenshots & Demos
 
-Include relevant screenshots or demo links here for better visualization.
+For better visualization.
 
 ---
 
